@@ -12,12 +12,16 @@ Snapshot preparado em 14/11/2026 a partir dos repositórios públicos da organiz
 | Backend (README atualizado) | [be-smartmall-ai](https://github.com/SmartMall-AI/be-smartmall-ai/tree/atualiza-readme-demo-publica) | `27680e3b054ad5331d1efc010ec0d8a4b923bf21` |
 | PDF de planejamento | Repositório de destino, pasta docs/ | Preservado como estava |
 
-## Vídeo de referência
+## Materiais enviados pela equipe
 
-O vídeo enviado pela equipe serve como referência para a ideia de transcrever mensagens de rádio: [assistir no YouTube](https://www.youtube.com/shorts/nIa-9M6grfo?si=IiV3afbBTyGLgbxB). A transcrição automática não está implementada no protótipo atual.
+- Questionário de validação: [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdP_wHxdIQcthQ3dqxtBPWOL9SlHGxBP92iavi1vdPOuyNAUw/viewform?usp=sharing&ouid=100468181742144616071).
+- Respostas: [planilha Google Sheets](https://docs.google.com/spreadsheets/d/11vCZ1sWJ0eIiD_oQW2EhgIHbg3YN8xo1q9WE409XX8c/edit?resourcekey=&gid=1361567321#gid=1361567321), sujeita às permissões configuradas no Google; as respostas brutas não foram copiadas para este repositório público.
+- Apresentação: [vídeo no YouTube](https://youtube.com/shorts/nIa-9M6grfo?si=IiV3afbBTyGLgbxB).
+
+O conteúdo da planilha não foi analisado nesta atualização. A ideia de transcrever rádio continua futura; a tela atual não captura nem transcreve áudio.
 
 ## Estado da solução registrado pela documentação
 
-A demonstração é pública, usa registros fictícios compartilhados e mantém a análise de IA simulada. Os perfis servem para demonstrar telas e não oferecem controle real de acesso. A integração OpenAI do backend foi exercitada com respostas controladas; a chamada real precisa de saldo e validação. O backend registra 55 testes aprovados. A documentação também separa verificações automatizadas, verificações do deploy e validação com pessoas, que continua pendente até que resultados sejam coletados.
+A demonstração é pública, usa registros fictícios compartilhados e mantém a análise de IA simulada. Os perfis servem para demonstrar telas e não oferecem controle real de acesso. A integração OpenAI do backend foi exercitada com respostas controladas; a chamada real precisa de saldo e validação. O backend registra 55 testes aprovados. A documentação também separa verificações automatizadas, verificações do deploy e planilha de respostas vinculada; a análise consolidada ainda precisa ser feita.
 
 Para corrigir ou atualizar o snapshot, consulte primeiro os repositórios oficiais e atualize os SHAs desta tabela. O trabalho futuro listado no backlog, como transcrição de rádio, deve permanecer identificado como planejado até sua implementação e validação.
