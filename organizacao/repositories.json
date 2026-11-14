@@ -1,0 +1,30 @@
+{
+  "project": "SmartMall AI",
+  "repository_purpose": "repository-index",
+  "index_repository": "https://github.com/SmartMall-AI/Hackarun-SmartMall",
+  "canonical_organization": {
+    "name": "SmartMall-AI",
+    "url": "https://github.com/SmartMall-AI"
+  },
+  "start_here": "https://github.com/SmartMall-AI/docs-smartmall-ai",
+  "evaluation_guide": "https://github.com/SmartMall-AI/docs-smartmall-ai/blob/main/avaliacao.md",
+  "repositories": [
+    {
+      "role": "backend",
+      "full_name": "SmartMall-AI/be-smartmall-ai",
+      "url": "https://github.com/SmartMall-AI/be-smartmall-ai"
+    },
+    {
+      "role": "frontend",
+      "full_name": "SmartMall-AI/fe-smartmall-ai",
+      "url": "https://github.com/SmartMall-AI/fe-smartmall-ai"
+    },
+    {
+      "role": "documentation",
+      "full_name": "SmartMall-AI/docs-smartmall-ai",
+      "url": "https://github.com/SmartMall-AI/docs-smartmall-ai"
+    }
+  ],
+  "historical_planning": "docs/planejamento_tecnico_inicial.pdf",
+  "implementation_status_source": "Inspect the current files, default branch, pull requests and checks in each official repository."
+}
