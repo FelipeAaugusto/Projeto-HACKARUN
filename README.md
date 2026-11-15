@@ -6,12 +6,14 @@ Este repositório reúne uma cópia consultável do trabalho publicado pela orga
 
 - [Demonstração online](https://smartmall-ai-demo.vercel.app)
 - [API interativa](https://smartmall-ai-demo-api-8mez.onrender.com/docs)
-- [Vídeo de referência da ideia de transcrição de mensagens de rádio](https://www.youtube.com/shorts/nIa-9M6grfo?si=IiV3afbBTyGLgbxB)
+- [Formulário de validação com usuários](https://docs.google.com/forms/d/e/1FAIpQLSdP_wHxdIQcthQ3dqxtBPWOL9SlHGxBP92iavi1vdPOuyNAUw/viewform?usp=sharing&ouid=100468181742144616071)
+- [Planilha de respostas da validação (acesso conforme permissões do Google)](https://docs.google.com/spreadsheets/d/11vCZ1sWJ0eIiD_oQW2EhgIHbg3YN8xo1q9WE409XX8c/edit?resourcekey=&gid=1361567321#gid=1361567321)
+- [Vídeo de apresentação do projeto](https://youtube.com/shorts/nIa-9M6grfo?si=IiV3afbBTyGLgbxB)
 - [Planejamento técnico inicial (PDF)](docs/planejamento_tecnico_inicial.pdf)
 - [Documentação consolidada](documentacao/README.md)
 - [Registro das fontes e revisões copiadas](ORIGENS.md)
 
-A demonstração usa contas e dados fictícios compartilhados, e a IA aparece em modo simulado. Perfis não implementam autenticação nem autorização reais. A tela de rádio atual registra texto digitado localmente; não captura nem transcreve áudio. O vídeo é uma referência de produto para explorar essa possibilidade, não uma funcionalidade já entregue.
+A demonstração usa contas e dados fictícios compartilhados, e a IA aparece em modo simulado. Perfis não implementam autenticação nem autorização reais. A tela de rádio atual registra texto digitado localmente; não captura nem transcreve áudio. A transcrição de rádio continua sendo uma ideia futura.
 
 ## Estrutura
 
